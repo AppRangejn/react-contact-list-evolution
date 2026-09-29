@@ -26,7 +26,7 @@ Clone the repository and switch to the branch you want to inspect:
 
 ```bash
 # Clone repository
-git clone [https://github.com/AppRangejn/react-contact-list-evolution.git](https://github.com/AppRangejn/react-contact-list-evolution.git)
+git clone https://github.com/AppRangejn/react-contact-list-evolution.git
 
 # Enter project directory
 cd react-contact-list-evolution
